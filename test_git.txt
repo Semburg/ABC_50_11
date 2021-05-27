@@ -3,3 +3,5 @@ test text
 test  commit -a -m  
 for this test was created a new file - "test7.txt"  
 / additiona;l change after git add for test7
+
+- git clean   -   created  file test_clean.txt  possibility to delete untracked files from repo 
