@@ -1,1 +1,4 @@
 test text
+
+test  commit -a -m  
+for this test was created a new file - "test7.txt"  
