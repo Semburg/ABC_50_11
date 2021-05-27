@@ -1,0 +1,5 @@
+test...
+by git commit -a -m  the file is still unstaged.
+
++ added with git add
++ one more testing (commit --amend)
